@@ -1,0 +1,48 @@
+h1{
+  text-align:center;
+  height:100px;
+    
+}
+nav{
+  top:0;
+  position:relative;
+}
+#header-img{
+  position:relative;
+  background-color:#d9b382;
+  width:229px;
+  right:490px;
+  
+}
+a{
+  color:black;
+}
+#header{
+  text-align:center;
+  font-size:35px;
+  background-color:#d9b382;
+  height:110px;
+}
+ul{
+  color:black;
+  list-style:none;
+  display:flex;
+  justify-content:space-around;
+}
+
+.nav-link{
+  width:100%;
+  font-size:23px;
+ 
+}
+button{
+  width:100%;
+  height:60x;
+  background-color:#d9b382;
+}
+input{
+  width:100%;
+}
+@media(min-width:100px;){
+  height:auto;
+}
