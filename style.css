@@ -46,3 +46,6 @@ input{
 @media(min-width:100px;){
   height:auto;
 }
+.class1{
+  margin-left:500px;
+}
